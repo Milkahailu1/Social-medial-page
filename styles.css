@@ -1,0 +1,30 @@
+img 
+{width: 300px;
+height: 250px; }   
+.discription-container
+{ 
+    max-width: 800px;
+    margin: 40px auto 20px;
+}
+
+.discription-container .floting-image
+{
+max-width: 400px;
+}
+
+.discription-container .floting-image.right
+{
+float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.discription-container .floting-image.left
+{
+float:left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+body
+{
+    background-color: pink;
+}
